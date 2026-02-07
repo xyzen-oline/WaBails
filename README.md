@@ -32,7 +32,7 @@ Begin by installing the library via your preferred package manager, then follow 
 ## How To Usage?
 ```json
 "depencies": {
-  "@whiskeysockets/baileys": "github:kayzennotdev/bail"
+  "@whiskeysockets/baileys": "github:xyzen-oline/WaBails"
 }
 ```
 ## Import
@@ -107,7 +107,7 @@ await client.sendMessage(m.chat, {
       }
     ],
     newsletter: {
-      newsletterName: "Kayzennotdev",
+      newsletterName: "Xyzen-Handsome",
       newsletterJid: "1@newsletter"
     }
   }
